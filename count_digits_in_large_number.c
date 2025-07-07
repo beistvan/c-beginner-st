@@ -2,6 +2,7 @@
 #include <ctype.h>
 
 int main() {
+
     int d;
     int count = 0;
     int c;
